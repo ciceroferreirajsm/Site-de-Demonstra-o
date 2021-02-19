@@ -219,3 +219,29 @@ ul.noticias li {
     border-radius: 50%;
    
 }
+.texto-certo{
+    font-size: 20px;
+    
+}
+.texto-titulo {
+    font-size: 30px;
+}
+.conteudo {
+    font-style: italic;
+}
+.titulos-clientes {
+    font-size: 25px;
+    
+}
+.fade{
+    opacity: 0.4;
+}
+
+.fade:hover {
+    opacity: 1;
+    transform: scale(1.05);
+}
+.links:hover {
+    font-size: 17px;
+    background-attachment:initial;
+}
